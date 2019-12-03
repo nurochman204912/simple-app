@@ -1,0 +1,153 @@
+.wrapper {
+    height: auto;
+    margin: auto;
+}
+
+.header {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+}
+
+.navbar {
+    height: 100px;
+    width: 1200px;
+    margin: auto;
+}
+
+.logo{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.imgfluid {
+    margin-left: 40px;
+
+}
+ 
+.menu {
+    width: 600px;
+    height: 100px;
+    float: right;
+}
+
+.menu ul li {
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+    line-height: 60px;
+    color: white;
+    width: 50px;
+    text-decoration: none;
+}
+
+.data {
+    float: left;
+    margin-right: 30px;
+    list-style: none;
+    line-height: 60px;
+    color: white;
+    width: 50px;
+    text-decoration: none;
+}
+
+.menu ul li a {
+    height: 150px;
+}
+
+.menu ul li a:hover {
+    background-color: azure;
+    color: blue;
+    width: 100px;
+    cursor: pointer;
+    height: 300px;
+}
+
+.slider {
+    background-color: blue;
+    height: 500px;
+}
+
+.slidercontent {
+    width: 1200px;
+    margin: auto;
+}
+
+.imageslider {
+    background-color: #33cc99;
+    max-width: 100%;
+}
+
+.imagesliderr {
+    width: 348px;
+    height: 300px;
+    max-width: 100%;
+}
+
+.content {
+    background-color: rgba(16, 117, 189, 0.5);
+    height: 430px;
+    margin-bottom: 40px;
+}
+
+.dataprestasi {
+    text-align: center;
+    color: black;
+}
+
+.content-gambar {
+    width: 1200px;
+    margin: auto;
+    height: 400px;
+    margin-top: 40px;
+}
+
+.image {
+    float: left;
+    width: 350px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.contentimage {
+    background-color: #3399cc;
+    height: 100px;
+}
+
+.fontimage {
+    text-align: center;
+    line-height: 70px;
+    color: white;
+}
+
+.content-youtube {
+    float: left;
+    width: 550px;
+}
+
+.conten-tmap {
+    float: right;
+    width: 550px;
+}
+
+.wrapperform {
+    width: 1200px;
+    height: auto;
+}
+
+.text {
+    width: 300px;
+    height: 25px;
+    border-radius: 50px;
+}
+
+.textarea {
+    width: 300px;
+}
+
+.buttom {
+    width: 300px;
+    background-color: cadetblue;
+    height: 35px;
+    border-radius: 50px;
+}
